@@ -2,7 +2,6 @@ const divFilter = document.getElementById("order-type");
 const selectOrder = document.getElementById("order-name");
 const card = document.getElementById("list-cards");
 const stats = document.getElementById("percentage");
-
 const dataPoke = POKEMON.pokemon;
 
 //Carregar as imagens após a inicialização da uma página
@@ -17,7 +16,7 @@ const listCard = (data) => {
     .map(
       (poke) => `
     <section class="box">
-      <p id="numberCard">${poke.num}</p>
+      <p>${poke.num}</p>
       <h3> ${poke.name}</h3>
       <img src=${poke.img} />
       <div>
@@ -42,7 +41,7 @@ selectOrder.addEventListener("change", ({ target: { value } }) => {
   }
 });
 
-//função para aparecer o tipo dos pokemons nas opções de escolha
+//função para aparecer o typo dos pokemons nas opções de escolha
 const populateDropdown = (pokemons) => {
   const pokemonsType = pokemons.map((poke) => poke.type).flat();
   const uniqueTypes = [...new Set(pokemonsType)];
@@ -53,11 +52,11 @@ const populateDropdown = (pokemons) => {
     <option value=${type}>${type}</option>`
     )
     .join("");
-  document.querySelector("#order-type").innerHTML = optionsLayout;
+  document.querySelector("#order-type").innerHTML= optionsLayout;
 
 };
 
-//Filtro dos pokemons de acordo com o tipo
+//Filtro dos pokemons de acordo com o typo
 divFilter.addEventListener("change", (e) => {
   listCard(filterSearch(dataPoke, e.target.value, "type"));
 });
