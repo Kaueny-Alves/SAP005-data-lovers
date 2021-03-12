@@ -38,6 +38,19 @@ Para definir a experiência do usuário foram utilizadas pesquisas acadêmicas e
 Pela interação com cliques, facilitando o acesso para crianças que não escrevem, além da interação com imagens.
 Foi feito diversas  melhorias para garantir que a experiência do usuário seja a mais agradável possível, com letras acessíveis e de fácil leitura e também a paleta de cores com tons claros.
 
+# Imagens
+
+<div>
+<img width="658" alt="Captura de Tela 2021-03-12 às 18 20 01" src="https://user-images.githubusercontent.com/63555634/111000225-689ab300-8360-11eb-9929-b0556ba1a0d7.png">
+
+<img width="652" alt="Captura de Tela 2021-03-12 às 18 20 43" src="https://user-images.githubusercontent.com/63555634/111000231-6c2e3a00-8360-11eb-8c43-2e12df4a21fe.png">
+
+<img width="654" alt="Captura de Tela 2021-03-12 às 18 20 10" src="https://user-images.githubusercontent.com/63555634/111000239-6df7fd80-8360-11eb-9713-dcc4b0dfb004.png">
+
+</div>
+
+
+
 # Ferramentas Utilizadas
 
 * HTML
