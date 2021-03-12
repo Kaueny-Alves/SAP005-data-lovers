@@ -46,6 +46,8 @@ Para definir a experiência do usuário foram utilizadas pesquisas acadêmicas e
 
 <img width="654" alt="Captura de Tela 2021-03-12 às 18 20 10" src="https://user-images.githubusercontent.com/63555634/111001229-2c685200-8362-11eb-9e24-f57387c0143a.png">
 
+<img width="786" alt="Captura de Tela 2021-03-12 às 18 43 47" src="https://user-images.githubusercontent.com/63555634/111002043-7ef63e00-8363-11eb-9a3b-d7ac48dd5b8f.png">
+
 
 # Teste de Usabilidade
 Pela interação com cliques, facilitando o acesso para crianças que não escrevem, além da interação com imagens.
