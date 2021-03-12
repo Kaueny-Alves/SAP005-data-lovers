@@ -38,6 +38,15 @@ Para definir a experiência do usuário foram utilizadas pesquisas acadêmicas e
 # PROTÓTIPO
 ![layout](src/img/protótipo.jpeg)
 
+# Imagens
+
+<img width="658" alt="Captura de Tela 2021-03-12 às 18 20 01" src="https://user-images.githubusercontent.com/63555634/111001216-27a39e00-8362-11eb-870b-f132be239257.png">
+
+<img width="652" alt="Captura de Tela 2021-03-12 às 18 20 43" src="https://user-images.githubusercontent.com/63555634/111001225-2a9e8e80-8362-11eb-868b-eb361917197e.png">
+
+<img width="654" alt="Captura de Tela 2021-03-12 às 18 20 10" src="https://user-images.githubusercontent.com/63555634/111001229-2c685200-8362-11eb-9e24-f57387c0143a.png">
+
+
 # Teste de Usabilidade
 Pela interação com cliques, facilitando o acesso para crianças que não escrevem, além da interação com imagens.
 Foi feito diversas  melhorias para garantir que a experiência do usuário seja a mais agradável possível, com letras acessíveis e de fácil leitura e também a paleta de cores com tons claros.
