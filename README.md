@@ -1,8 +1,8 @@
 # Pokémon
 
-*Conheça a aplicação
+*Conheça a aplicação:
 
-*[link] - (https://poke-lovers.herokuapp.com/)
+*[link](https://poke-lovers.herokuapp.com/)
 
 ​Pokémon GO é uma experiência de jogo internacional que tem mais de um bilhão de
 downloads e foi nomeado "o melhor jogo para celular" pelo Game Developers Choice
@@ -61,7 +61,7 @@ Foi feito diversas  melhorias para garantir que a experiência do usuário seja 
 * Visual Studio Code
 * Jest
 
-### .Desenvolvido por:
+### Desenvolvido por:
 
 *  [Mairã Soares](https://github.com/MairaSoares)
 *  [Kaueny Alves](https://github.com/Kaueny-Alves)
