@@ -2,7 +2,7 @@
 
 *Conheça a aplicação:
 
-*[link](https://poke-lovers.herokuapp.com/)
+*[Pokelovers](https://poke-lovers.herokuapp.com/)
 
 ​Pokémon GO é uma experiência de jogo internacional que tem mais de um bilhão de
 downloads e foi nomeado "o melhor jogo para celular" pelo Game Developers Choice
